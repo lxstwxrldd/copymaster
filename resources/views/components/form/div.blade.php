@@ -1,6 +1,4 @@
-<div {{ $attributes->class([
-    
-]) }} class="grid">
+<div {{ $attributes }} class="grid">
     <label for="" class="font-semibold uppercase text-3xl">{{ $title }}</label>
     {{ $slot }}
 </div>

@@ -9,7 +9,7 @@
                 </ul>
             </li>
             <li>
-                <img src="{{ asset('public/map.jpg') }}" alt="" class="h-full w-full object-ceven">
+                <img src="{{ asset('map.jpg') }}" alt="" class="h-full w-full object-ceven">
             </li>
         </ul>
     </x-section>
